@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @angelcaceres7450
+- 👀 I’m interested in tissue engineering, bioinformatics, data science, artificial intelligence and programming in general.
+- 🌱 I’m currently studying bioengineering in UTEC, Barranco, Lima, Perú.
+- 📫 How to reach me: angel.reyes@utec.edu.pe
